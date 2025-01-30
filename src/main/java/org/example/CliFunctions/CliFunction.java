@@ -1,6 +1,5 @@
 package org.example.CliFunctions;
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class CliFunction {
